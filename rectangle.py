@@ -1,5 +1,25 @@
 def area(a, b): 
-    return a * b 
+    '''
+    Returns area of ractangle
 
-def perimeter(a, b): 
-    return 2 * (a + b) 
+    Args:
+        a: First side
+        b: Second side
+
+    Return:
+        float: Rectangle's area
+    '''
+    return float(a * b)
+
+def perimeter(a, b):
+    '''
+    Returns perimeter of ractangle
+
+    Args:
+        a: First side
+        b: Second side
+
+    Return:
+        float: Rectangle's perimeter
+    ''' 
+    return float(2 * (a + b))

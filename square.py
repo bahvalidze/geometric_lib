@@ -1,7 +1,25 @@
 
 def area(a):
-    return a * a
+    '''
+    Returns area of square
+
+    Args:
+        a: Side
+
+    Return:
+        float: Square's area
+    '''
+    return float(a * a)
 
 
 def perimeter(a):
-    return 4 * a
+    '''
+    Returns perimeter of square
+
+    Args:
+        a: Side
+
+    Return:
+        float: Square's perimeter
+    '''
+    return float(a * a)
