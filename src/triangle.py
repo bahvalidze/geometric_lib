@@ -8,6 +8,9 @@ def area(a, h):
 
     Return:
         float: Triangle's area
+
+    Example:
+        area(1) # 0.5
     '''
     return float(a * h / 2)
 
@@ -22,5 +25,8 @@ def perimeter(a, b, c):
 
     Return:
         float: Triangle's perimeter
+
+    Example:
+        perimeter(1,1,1) # 3
     '''
     return float(a + b + c)
