@@ -77,11 +77,16 @@ perimeter(1, 1, 1) # 3
 
 ### Commit hash "d078c8d"
 
+
     - Added docs
 
 ### Commit hash "8ba9aeb"
    
     - Added circle.py
     - Added rectangle.py
+
+### Commit hash "3102549"
+    
+    - Tests added
 
     
