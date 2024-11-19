@@ -21,4 +21,4 @@ jobs:
         python-version: 3.11
     - name: Test with unittest
       run: |
-        unittest
+        python -m unittest discover tests
